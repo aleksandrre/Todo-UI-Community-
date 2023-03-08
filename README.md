@@ -2,7 +2,7 @@
 
 ## Links
 
-- Live Site URL: [Live site](https://todo-ui-community.vercel.app/)
+- Live Site URL: [Live site](https://todo-ui-community-ypmq.vercel.app/)
 - Solution URL: [Solution URL](https://github.com/aleksandrre/Todo-UI-Community-)
 
 ## Screenshot
